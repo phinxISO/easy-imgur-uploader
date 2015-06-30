@@ -1,0 +1,13 @@
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\bin\Debug\easy imgur uploader.exe
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\bin\Debug\easy imgur uploader.pdb
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\bin\Debug\easy imgur uploader.xml
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy_imgur_uploader.Form1.resources
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy_imgur_uploader.Resources.resources
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy imgur uploader.vbproj.GenerateResource.Cache
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy imgur uploader.exe
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy imgur uploader.xml
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy imgur uploader.pdb
+C:\Users\AVX-PC\Desktop\vvvv\easy imgur uploader\obj\Debug\easy_imgur_uploader.Form2.resources
+D:\e-ME\Docs\imgur upolader\easy imgur uploader\obj\Debug\easy imgur uploader.exe
+D:\e-ME\Docs\imgur upolader\easy imgur uploader\obj\Debug\easy imgur uploader.xml
+D:\e-ME\Docs\imgur upolader\easy imgur uploader\obj\Debug\easy imgur uploader.pdb
